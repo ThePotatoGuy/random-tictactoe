@@ -5,7 +5,7 @@
 import random
 
 # board class is what we use
-class Board():
+class Board:
     """
     Handles the internal representation of the board as well as printing it out
     """
